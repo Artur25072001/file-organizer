@@ -1,0 +1,20 @@
+{
+  "name": "file-organizer",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Artur25072001/file-organizer#readme",
+  "bugs": {
+    "url": "https://github.com/Artur25072001/file-organizer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artur25072001/file-organizer.git"
+  },
+  "license": "ISC",
+  "author": "Artur Dymchevskyi <artardamchevskiy@gmail.com>",
+  "type": "module",
+  "main": "file-organizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
